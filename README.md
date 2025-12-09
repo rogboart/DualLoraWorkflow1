@@ -23,4 +23,5 @@ This workflow uses nodes from:
 ### Note
 - This workflow does not include my personal LoRAs and they're not accessible.  You have to find your own character LoRAs, there are plenty around.
 - You will likely have to adjust settings depending on your image.  This just gets you to the point where you can do that!
+- I'M SORRY FOR THE WIRE MESS! Wiring in comfy is not my specialty.  It works and it functions and you can mostly ignore the wires.  If someone wants to clean it up though, I'd happily review a PR!
 
